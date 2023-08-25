@@ -1,0 +1,14 @@
+.home-container {
+  height: 100%;
+  width: 100%;
+  .create-task-btn-container {
+    height: 60px;
+    width: 100%;
+    text-align: right;
+    .create-task-btn {
+      margin: 10px 10px 10px 10px;
+    }
+  }
+  .task-board-grid-container {
+  }
+}
